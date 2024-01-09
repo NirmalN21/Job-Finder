@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "my-app",
+    "slug": "job-finder",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "4ca2e720-a384-4049-a42c-7e2459ebfa54"
+      }
+    },
+    "owner": "nirmalnehra21",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4ca2e720-a384-4049-a42c-7e2459ebfa54"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
