@@ -1,4 +1,4 @@
-<h3>To access the app, Scan the following QR codes with an Expo app on an Android or iOS device. <h4> You can download the Expo app from respective app stores</h4></h3> 
+<h3>To access the app, Scan the following QR codes with an Expo app on an Android or iOS device.</h3> 
 
 | For Android | For iOS |
 |-------------|---------|
